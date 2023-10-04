@@ -72,6 +72,7 @@ h1, h2, h3{
     /* Set width, margin, and display */
     margin: auto;
     width: 90%;
+    display: block;
 }
 
 
